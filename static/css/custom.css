@@ -1,0 +1,49 @@
+.body-search {
+  padding: 0;
+  width: 100%;
+}
+
+.body-search li {
+  width: 100%;
+  border-bottom: 1px dotted #ddd;
+  margin-top: 10px;
+}
+
+.body-search .title-search {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.body-search .title-search:hover {
+  text-decoration: underline;
+}
+
+.body-search .text-search {
+  font-size: 13px;
+}
+
+input {
+  width: 100%;
+}
+.col-form-label {
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.form-group {
+    margin-bottom: 0px;
+}
+
+.span-phong {
+  color: #42b983;
+}
+
+.hidden-element {
+  display: none;
+}
+
+.modal-header .close {
+  padding: 0 !important;
+  margin: 0;
+  font-size: 25px;
+}
